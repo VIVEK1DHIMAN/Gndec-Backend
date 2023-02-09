@@ -1,0 +1,419 @@
+[{
+  "_id": {
+    "$oid": "621ea0448e418e679e79c780"
+  },
+  "isActive": true,
+  "isPublic": true,
+  "isEndGame": true,
+  "sportName": "110 mts Hurdles Final",
+  "sportType": "track",
+  "genderCategory": "Male",
+  "__v": 0
+}, {
+  "_id": {
+    "$oid": "621ea0448e418e679e79c782"
+  },
+  "isActive": true,
+  "isPublic": true,
+  "isEndGame": true,
+  "sportName": "400 mts Hurdles Final",
+  "sportType": "track",
+  "genderCategory": "Male",
+  "__v": 0
+}, {
+  "_id": {
+    "$oid": "621ea0448e418e679e79c786"
+  },
+  "isActive": true,
+  "isPublic": true,
+  "isEndGame": false,
+  "sportName": "100 mts Heats",
+  "sportType": "track",
+  "genderCategory": "Male",
+  "__v": 0
+}, {
+  "_id": {
+    "$oid": "621ea0448e418e679e79c788"
+  },
+  "isActive": true,
+  "isPublic": false,
+  "isEndGame": false,
+  "sportName": "100 mts Semi-Final",
+  "sportType": "track",
+  "genderCategory": "Male",
+  "__v": 0
+}, {
+  "_id": {
+    "$oid": "621ea0458e418e679e79c78b"
+  },
+  "isActive": true,
+  "isPublic": false,
+  "isEndGame": true,
+  "sportName": "100 mts Final",
+  "sportType": "track",
+  "genderCategory": "Male",
+  "__v": 0
+}, {
+  "_id": {
+    "$oid": "621ea0458e418e679e79c78e"
+  },
+  "isActive": true,
+  "isPublic": true,
+  "isEndGame": false,
+  "sportName": "400 mts Heats",
+  "sportType": "track",
+  "genderCategory": "Male",
+  "__v": 0
+}, {
+  "_id": {
+    "$oid": "621ea0458e418e679e79c791"
+  },
+  "isActive": true,
+  "isPublic": false,
+  "isEndGame": true,
+  "sportName": "400 mts Final",
+  "sportType": "track",
+  "genderCategory": "Male",
+  "__v": 0
+}, {
+  "_id": {
+    "$oid": "621ea0468e418e679e79c794"
+  },
+  "isActive": true,
+  "isPublic": true,
+  "isEndGame": false,
+  "sportName": "200 mts Heat",
+  "sportType": "track",
+  "genderCategory": "Male",
+  "__v": 0
+}, {
+  "_id": {
+    "$oid": "621ea0468e418e679e79c797"
+  },
+  "isActive": true,
+  "isPublic": false,
+  "isEndGame": true,
+  "sportName": "200 mts Final",
+  "sportType": "track",
+  "genderCategory": "Male",
+  "__v": 0
+}, {
+  "_id": {
+    "$oid": "621ea0468e418e679e79c79a"
+  },
+  "isActive": true,
+  "isPublic": true,
+  "isEndGame": true,
+  "sportName": "800 mts Final",
+  "sportType": "track",
+  "genderCategory": "Male",
+  "__v": 0
+}, {
+  "_id": {
+    "$oid": "621ea0468e418e679e79c79d"
+  },
+  "isActive": true,
+  "isPublic": true,
+  "isEndGame": true,
+  "sportName": "1500 mts Final",
+  "sportType": "track",
+  "genderCategory": "Male",
+  "__v": 0
+}, {
+  "_id": {
+    "$oid": "621ea0478e418e679e79c7a1"
+  },
+  "isActive": true,
+  "isPublic": true,
+  "isEndGame": true,
+  "sportName": "5000 mts Final",
+  "sportType": "track",
+  "genderCategory": "Male",
+  "__v": 0
+}, {
+  "_id": {
+    "$oid": "621ea0478e418e679e79c7a3"
+  },
+  "isActive": true,
+  "isPublic": true,
+  "isEndGame": true,
+  "sportName": "10000 mts Final",
+  "sportType": "track",
+  "genderCategory": "Male",
+  "__v": 0
+}, {
+  "_id": {
+    "$oid": "621ea0478e418e679e79c7a6"
+  },
+  "isActive": true,
+  "isPublic": true,
+  "isEndGame": true,
+  "sportName": "Javelin Throw Final",
+  "sportType": "field",
+  "genderCategory": "Male",
+  "__v": 0
+}, {
+  "_id": {
+    "$oid": "621ea0488e418e679e79c7a9"
+  },
+  "isActive": true,
+  "isPublic": true,
+  "isEndGame": true,
+  "sportName": "High Jump Final",
+  "sportType": "field",
+  "genderCategory": "Male",
+  "__v": 0
+}, {
+  "_id": {
+    "$oid": "621ea0488e418e679e79c7ac"
+  },
+  "isActive": true,
+  "isPublic": true,
+  "isEndGame": true,
+  "sportName": "Shot-Put Final",
+  "sportType": "field",
+  "genderCategory": "Male",
+  "__v": 0
+}, {
+  "_id": {
+    "$oid": "621ea0488e418e679e79c7af"
+  },
+  "isActive": true,
+  "isPublic": true,
+  "isEndGame": true,
+  "sportName": "Triple Jump Final",
+  "sportType": "field",
+  "genderCategory": "Male",
+  "__v": 0
+}, {
+  "_id": {
+    "$oid": "621ea0498e418e679e79c7b3"
+  },
+  "isActive": true,
+  "isPublic": true,
+  "isEndGame": true,
+  "sportName": "Discus Throw Final",
+  "sportType": "field",
+  "genderCategory": "Male",
+  "__v": 0
+}, {
+  "_id": {
+    "$oid": "621ea0498e418e679e79c7b5"
+  },
+  "isActive": true,
+  "isPublic": true,
+  "isEndGame": true,
+  "sportName": "Long Jump Final",
+  "sportType": "field",
+  "genderCategory": "Male",
+  "__v": 0
+}, {
+  "_id": {
+    "$oid": "621ea0498e418e679e79c7b8"
+  },
+  "isActive": true,
+  "isPublic": true,
+  "isEndGame": true,
+  "sportName": "Hammer Throw Final",
+  "sportType": "field",
+  "genderCategory": "Male",
+  "__v": 0
+}, {
+  "_id": {
+    "$oid": "621ea0498e418e679e79c7bb"
+  },
+  "isActive": true,
+  "isPublic": true,
+  "isEndGame": true,
+  "sportName": "100 mts Hurdles Final (F)",
+  "sportType": "track",
+  "genderCategory": "Female",
+  "__v": 0
+}, {
+  "_id": {
+    "$oid": "621ea04a8e418e679e79c7be"
+  },
+  "isActive": true,
+  "isPublic": true,
+  "isEndGame": true,
+  "sportName": "400 mts Hurdles Final (F)",
+  "sportType": "track",
+  "genderCategory": "Female",
+  "__v": 0
+}, {
+  "_id": {
+    "$oid": "621ea04a8e418e679e79c7c1"
+  },
+  "isActive": true,
+  "isPublic": true,
+  "isEndGame": false,
+  "sportName": "100 mts Heats (F)",
+  "sportType": "track",
+  "genderCategory": "Female",
+  "__v": 0
+}, {
+  "_id": {
+    "$oid": "621ea04a8e418e679e79c7c4"
+  },
+  "isActive": true,
+  "isPublic": false,
+  "isEndGame": false,
+  "sportName": "100 mts Semi-Final (F)",
+  "sportType": "track",
+  "genderCategory": "Female",
+  "__v": 0
+}, {
+  "_id": {
+    "$oid": "621ea04b8e418e679e79c7c7"
+  },
+  "isActive": true,
+  "isPublic": false,
+  "isEndGame": true,
+  "sportName": "100 mts Final (F)",
+  "sportType": "track",
+  "genderCategory": "Female",
+  "__v": 0
+}, {
+  "_id": {
+    "$oid": "621ea04b8e418e679e79c7ca"
+  },
+  "isActive": true,
+  "isPublic": true,
+  "isEndGame": true,
+  "sportName": "400 mts Final (F)",
+  "sportType": "track",
+  "genderCategory": "Female",
+  "__v": 0
+}, {
+  "_id": {
+    "$oid": "621ea04b8e418e679e79c7ce"
+  },
+  "isActive": true,
+  "isPublic": true,
+  "isEndGame": false,
+  "sportName": "200 mts Heat (F)",
+  "sportType": "track",
+  "genderCategory": "Female",
+  "__v": 0
+}, {
+  "_id": {
+    "$oid": "621ea04b8e418e679e79c7d0"
+  },
+  "isActive": true,
+  "isPublic": false,
+  "isEndGame": true,
+  "sportName": "200 mts Final (F)",
+  "sportType": "track",
+  "genderCategory": "Female",
+  "__v": 0
+}, {
+  "_id": {
+    "$oid": "621ea04c8e418e679e79c7d3"
+  },
+  "isActive": true,
+  "isPublic": true,
+  "isEndGame": true,
+  "sportName": "800 mts Final (F)",
+  "sportType": "track",
+  "genderCategory": "Female",
+  "__v": 0
+}, {
+  "_id": {
+    "$oid": "621ea04c8e418e679e79c7d6"
+  },
+  "isActive": true,
+  "isPublic": true,
+  "isEndGame": true,
+  "sportName": "1500 mts Final (F)",
+  "sportType": "track",
+  "genderCategory": "Female",
+  "__v": 0
+}, {
+  "_id": {
+    "$oid": "621ea04c8e418e679e79c7d9"
+  },
+  "isActive": true,
+  "isPublic": true,
+  "isEndGame": true,
+  "sportName": "3000 mts Final (F)",
+  "sportType": "track",
+  "genderCategory": "Female",
+  "__v": 0
+}, {
+  "_id": {
+    "$oid": "621ea04d8e418e679e79c7dc"
+  },
+  "isActive": true,
+  "isPublic": true,
+  "isEndGame": true,
+  "sportName": "Javelin Throw Final (F)",
+  "sportType": "field",
+  "genderCategory": "Female",
+  "__v": 0
+}, {
+  "_id": {
+    "$oid": "621ea04d8e418e679e79c7df"
+  },
+  "isActive": true,
+  "isPublic": true,
+  "isEndGame": true,
+  "sportName": "High Jump Final (F)",
+  "sportType": "field",
+  "genderCategory": "Female",
+  "__v": 0
+}, {
+  "_id": {
+    "$oid": "621ea04d8e418e679e79c7e2"
+  },
+  "isActive": true,
+  "isPublic": true,
+  "isEndGame": true,
+  "sportName": "Shot-Put Final (F)",
+  "sportType": "field",
+  "genderCategory": "Female",
+  "__v": 0
+}, {
+  "_id": {
+    "$oid": "621ea04e8e418e679e79c7e6"
+  },
+  "isActive": true,
+  "isPublic": true,
+  "isEndGame": true,
+  "sportName": "Triple Jump Final (F)",
+  "sportType": "field",
+  "genderCategory": "Female",
+  "__v": 0
+}, {
+  "_id": {
+    "$oid": "621ea04e8e418e679e79c7e8"
+  },
+  "isActive": true,
+  "isPublic": true,
+  "isEndGame": true,
+  "sportName": "Discus Throw Final (F)",
+  "sportType": "field",
+  "genderCategory": "Female",
+  "__v": 0
+}, {
+  "_id": {
+    "$oid": "621ea04e8e418e679e79c7eb"
+  },
+  "isActive": true,
+  "isPublic": true,
+  "isEndGame": true,
+  "sportName": "Long Jump Final (F)",
+  "sportType": "field",
+  "genderCategory": "Female",
+  "__v": 0
+}, {
+  "_id": {
+    "$oid": "621ea04f8e418e679e79c7ee"
+  },
+  "isActive": true,
+  "isPublic": true,
+  "isEndGame": true,
+  "sportName": "Hammer Throw Final (F)",
+  "sportType": "field",
+  "genderCategory": "Female",
+  "__v": 0
+}]

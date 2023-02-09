@@ -1,0 +1,12 @@
+node_modules
+
+package-lock.json
+
+rebase.zsh
+.env
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/config.yml
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml

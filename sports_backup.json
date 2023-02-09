@@ -1,0 +1,280 @@
+[{
+  "_id": {
+    "$oid": "621ea0448e418e679e79c780"
+  },
+  "isActive": true,
+  "sportName": "110 mts Hurdles",
+  "sportType": "track",
+  "genderCategory": "Male",
+  "__v": 0
+}, {
+  "_id": {
+    "$oid": "621ea0448e418e679e79c782"
+  },
+  "isActive": true,
+  "sportName": "400 mts Hurdles",
+  "sportType": "track",
+  "genderCategory": "Male",
+  "__v": 0
+}, {
+  "_id": {
+    "$oid": "621ea0448e418e679e79c786"
+  },
+  "isActive": true,
+  "sportName": "100 mts",
+  "sportType": "track",
+  "genderCategory": "Male",
+  "__v": 0
+}, {
+  "_id": {
+    "$oid": "621ea0468e418e679e79c794"
+  },
+  "isActive": true,
+  "sportName": "200 mts",
+  "sportType": "track",
+  "genderCategory": "Male",
+  "__v": 0
+}, {
+  "_id": {
+    "$oid": "621ea0458e418e679e79c78e"
+  },
+  "isActive": true,
+  "sportName": "400 mts",
+  "sportType": "track",
+  "genderCategory": "Male",
+  "__v": 0
+}, {
+  "_id": {
+    "$oid": "621ea0468e418e679e79c79a"
+  },
+  "isActive": true,
+  "sportName": "800 mts",
+  "sportType": "track",
+  "genderCategory": "Male",
+  "__v": 0
+}, {
+  "_id": {
+    "$oid": "621ea0468e418e679e79c79d"
+  },
+  "isActive": true,
+  "sportName": "1500 mts",
+  "sportType": "track",
+  "genderCategory": "Male",
+  "__v": 0
+}, {
+  "_id": {
+    "$oid": "621ea0478e418e679e79c7a1"
+  },
+  "isActive": true,
+  "sportName": "5000 mts",
+  "sportType": "track",
+  "genderCategory": "Male",
+  "__v": 0
+}, {
+  "_id": {
+    "$oid": "621ea0478e418e679e79c7a3"
+  },
+  "isActive": true,
+  "sportName": "10000 mts",
+  "sportType": "track",
+  "genderCategory": "Male",
+  "__v": 0
+}, {
+  "_id": {
+    "$oid": "621ea0478e418e679e79c7a6"
+  },
+  "isActive": true,
+  "sportName": "Javelin Throw",
+  "sportType": "field",
+  "genderCategory": "Male",
+  "__v": 0
+}, {
+  "_id": {
+    "$oid": "621ea0488e418e679e79c7a9"
+  },
+  "isActive": true,
+  "sportName": "High Jump",
+  "sportType": "field",
+  "genderCategory": "Male",
+  "__v": 0
+}, {
+  "_id": {
+    "$oid": "621ea0488e418e679e79c7ac"
+  },
+  "isActive": true,
+  "sportName": "Shot-Put",
+  "sportType": "field",
+  "genderCategory": "Male",
+  "__v": 0
+}, {
+  "_id": {
+    "$oid": "621ea0488e418e679e79c7af"
+  },
+  "isActive": true,
+  "sportName": "Triple Jump",
+  "sportType": "field",
+  "genderCategory": "Male",
+  "__v": 0
+}, {
+  "_id": {
+    "$oid": "621ea0498e418e679e79c7b3"
+  },
+  "isActive": true,
+  "sportName": "Discus Throw",
+  "sportType": "field",
+  "genderCategory": "Male",
+  "__v": 0
+}, {
+  "_id": {
+    "$oid": "621ea0498e418e679e79c7b5"
+  },
+  "isActive": true,
+  "sportName": "Long Jump",
+  "sportType": "field",
+  "genderCategory": "Male",
+  "__v": 0
+}, {
+  "_id": {
+    "$oid": "621ea0498e418e679e79c7b8"
+  },
+  "isActive": true,
+  "sportName": "Hammer Throw",
+  "sportType": "field",
+  "genderCategory": "Male",
+  "__v": 0
+}, {
+  "_id": {
+    "$oid": "621ea0498e418e679e79c7bb"
+  },
+  "isActive": true,
+  "sportName": "100 mts Hurdles (F)",
+  "sportType": "track",
+  "genderCategory": "Female",
+  "__v": 0
+}, {
+  "_id": {
+    "$oid": "621ea04a8e418e679e79c7be"
+  },
+  "isActive": true,
+  "sportName": "400 mts Hurdles (F)",
+  "sportType": "track",
+  "genderCategory": "Female",
+  "__v": 0
+}, {
+  "_id": {
+    "$oid": "621ea04a8e418e679e79c7c1"
+  },
+  "isActive": true,
+  "sportName": "100 mts (F)",
+  "sportType": "track",
+  "genderCategory": "Female",
+  "__v": 0
+}, {
+  "_id": {
+    "$oid": "621ea04b8e418e679e79c7ce"
+  },
+  "isActive": true,
+  "sportName": "200 mts (F)",
+  "sportType": "track",
+  "genderCategory": "Female",
+  "__v": 0
+}, {
+  "_id": {
+    "$oid": "621ea04b8e418e679e79c7ca"
+  },
+  "isActive": true,
+  "sportName": "400 mts (F)",
+  "sportType": "track",
+  "genderCategory": "Female",
+  "__v": 0
+}, {
+  "_id": {
+    "$oid": "621ea04c8e418e679e79c7d3"
+  },
+  "isActive": true,
+  "sportName": "800 mts (F)",
+  "sportType": "track",
+  "genderCategory": "Female",
+  "__v": 0
+}, {
+  "_id": {
+    "$oid": "621ea04c8e418e679e79c7d6"
+  },
+  "isActive": true,
+  "sportName": "1500 mts (F)",
+  "sportType": "track",
+  "genderCategory": "Female",
+  "__v": 0
+}, {
+  "_id": {
+    "$oid": "621ea04c8e418e679e79c7d9"
+  },
+  "isActive": true,
+  "sportName": "3000 mts (F)",
+  "sportType": "track",
+  "genderCategory": "Female",
+  "__v": 0
+}, {
+  "_id": {
+    "$oid": "621ea04d8e418e679e79c7dc"
+  },
+  "isActive": true,
+  "sportName": "Javelin Throw (F)",
+  "sportType": "field",
+  "genderCategory": "Female",
+  "__v": 0
+}, {
+  "_id": {
+    "$oid": "621ea04d8e418e679e79c7df"
+  },
+  "isActive": true,
+  "sportName": "High Jump (F)",
+  "sportType": "field",
+  "genderCategory": "Female",
+  "__v": 0
+}, {
+  "_id": {
+    "$oid": "621ea04d8e418e679e79c7e2"
+  },
+  "isActive": true,
+  "sportName": "Shot-Put (F)",
+  "sportType": "field",
+  "genderCategory": "Female",
+  "__v": 0
+}, {
+  "_id": {
+    "$oid": "621ea04e8e418e679e79c7e6"
+  },
+  "isActive": true,
+  "sportName": "Triple Jump (F)",
+  "sportType": "field",
+  "genderCategory": "Female",
+  "__v": 0
+}, {
+  "_id": {
+    "$oid": "621ea04e8e418e679e79c7e8"
+  },
+  "isActive": true,
+  "sportName": "Discus Throw (F)",
+  "sportType": "field",
+  "genderCategory": "Female",
+  "__v": 0
+}, {
+  "_id": {
+    "$oid": "621ea04e8e418e679e79c7eb"
+  },
+  "isActive": true,
+  "sportName": "Long Jump (F)",
+  "sportType": "field",
+  "genderCategory": "Female",
+  "__v": 0
+}, {
+  "_id": {
+    "$oid": "621ea04f8e418e679e79c7ee"
+  },
+  "isActive": true,
+  "sportName": "Hammer Throw (F)",
+  "sportType": "field",
+  "genderCategory": "Female",
+  "__v": 0
+}]

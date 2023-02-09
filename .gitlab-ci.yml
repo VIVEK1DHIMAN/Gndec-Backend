@@ -1,0 +1,21 @@
+stages:
+  - deploy
+
+dev:
+  image: python:latest
+  stage: deploy
+  only:
+        - dev
+        - deployment
+  script:
+    - curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.2/install.sh | bash
+    - export NVM_DIR="$HOME/.nvm" 
+    - \. "$NVM_DIR/nvm.sh"
+    - nvm install v12.19.0
+    - pip install awsebcli
+    - pip install awscli
+    - aws configure set aws_access_key_id $AWS_ACCESS_KEY_ID
+    - aws configure set aws_secret_access_key $AWS_SECRET_ACCESS_KEY
+    - git branch
+    - npm install
+    - eb deploy merit-backend
