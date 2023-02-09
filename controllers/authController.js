@@ -77,7 +77,7 @@ module.exports = {
       sendMail({
         to: email,
         subject: 'Verification email for sports meet 2023 (GNDEC)',
-        text: `Click here to verify: ${BASE_URL}/verify/${verificationToken}`,
+        text: `Click here to verify: ${BASE_URL}verify/${verificationToken}`,
       });
       return res.status(200).json({ message: USER_CREATED });
     } catch (error) {
