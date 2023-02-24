@@ -13,6 +13,6 @@ const transport = nodemailer.createTransport({
 // mailMessage Object structure (from, to, subject, text=body, attachments)
 exports.sendMail = async (mailMessage) => {
   // const message = { from: "admin@theamanjs.dev", ...mailMessage };
-  const message = { from: "gndec@decsportsmeet.tech", ...mailMessage };
+  const message = { from: "gndec@yatinengineer.tech", ...mailMessage };
   return transport.sendMail(message);
 };
